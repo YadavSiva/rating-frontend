@@ -1,0 +1,68 @@
+.restaurant-component {
+    max-width: 350px; 
+    margin: 10px;
+         padding: 20px; 
+    border: 1px solid #ccc;
+     border-radius: 8px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ margin-left: 50px;
+
+}
+
+.marginstart{
+    margin-left: 20px;
+  }
+
+
+  .image{
+    width:100%;
+    
+    height:auto;
+
+  }
+  .popular{
+    border-radius: 7px;
+    border: 1px solid rgb(242, 245, 239);
+    background-color:green;
+    color: #fff;
+    
+  }
+
+
+.color{
+    color:black;
+    background-color: #fff;
+    border-radius:10px;
+    border-color: white;
+    border: 1px solid;
+    width:12%;
+}
+
+.color button:hover{
+  box-shadow: 2px 2px 2px 2px rgb(146, 145, 145);
+}
+
+.edit {
+  
+
+    background-color:rgb(110, 179, 110); /* Adjust the color as needed */
+    color: #fff;
+    
+  }
+
+  .delete{
+  
+
+    background-color:rgb(188, 42, 42); /* Adjust the color as needed */
+    color: #f8f8f8;
+    
+
+  }
+
+  .report {
+  background-color: white;
+}
+
+
+
+

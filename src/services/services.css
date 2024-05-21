@@ -1,0 +1,36 @@
+.menu-item-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.menu-item-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-img {
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.menu-card-title {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.menu-item-link {
+    color: #0f0309;
+    text-decoration: none;
+}
+
+.menu-item-link:hover {
+    text-decoration: underline;
+}
